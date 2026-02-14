@@ -127,5 +127,5 @@ This project is open-source and available under the **MIT License**.
 Feel free to connect with me:
 
 - GitHub: [SecureAuditX](https://github.com/SecureAuditX)
-- LinkedIn: _(your link here)_
+- LinkedIn: [Abdulkarim Umar](https://www.linkedin.com/in/abdulkarim-umar-14789937b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Email: _(abdulkarimumar86@gmail.com)_
